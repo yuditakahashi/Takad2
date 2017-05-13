@@ -1,0 +1,6 @@
+D:\Projetos\MoipTest\MoipTest\bin\Debug\MoipTest.exe.config
+D:\Projetos\MoipTest\MoipTest\obj\Debug\MoipTest.csprojResolveAssemblyReference.cache
+D:\Projetos\MoipTest\MoipTest\bin\Debug\MoipTest.exe
+D:\Projetos\MoipTest\MoipTest\bin\Debug\MoipTest.pdb
+D:\Projetos\MoipTest\MoipTest\obj\Debug\MoipTest.exe
+D:\Projetos\MoipTest\MoipTest\obj\Debug\MoipTest.pdb
